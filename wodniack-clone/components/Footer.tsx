@@ -34,11 +34,11 @@ export default function Footer() {
             <span className="inline-block">e</span>
             <span className="inline-block">e</span>
             <span className="inline-block mx-2">t</span>
-            <span className="inline-block">'</span>
+            <span className="inline-block">&apos;</span>
             <span className="inline-block">t</span>
-            <span className="inline-block">'</span>
+            <span className="inline-block">&apos;</span>
             <span className="inline-block">t</span>
-            <span className="inline-block">'</span>
+            <span className="inline-block">&apos;</span>
             <span className="inline-block mx-2">s</span>
             <span className="inline-block">s</span>
             <span className="inline-block">s</span>

@@ -35,14 +35,14 @@ export default function About() {
           </p>
 
           <p>
-            I've worked extensively with <strong>back-end development</strong> and various 
+            I&apos;ve worked extensively with <strong>back-end development</strong> and various 
             <strong>CMS platforms</strong>, giving me a comprehensive understanding of the 
             full development stack.
           </p>
 
           <p>
             Today, I focus on <strong>creative development</strong>, having completed over 
-            <strong> 140+ projects</strong>. I've had the privilege of leading teams of 
+            <strong> 140+ projects</strong>. I&apos;ve had the privilege of leading teams of 
             <strong> 10 designers and developers</strong>, and founded <strong>Waaark</strong> and 
             <strong> incredibles.dev</strong>.
           </p>
@@ -50,7 +50,7 @@ export default function About() {
           <p>
             My work has been recognized with numerous <strong>awards</strong>, but what 
             drives me most is the <strong>continuous learning</strong> and pushing the 
-            boundaries of what's possible on the web.
+            boundaries of what&apos;s possible on the web.
           </p>
         </motion.div>
       </div>
